@@ -389,10 +389,4 @@ describe('Ticketazo - Funcionalidades Críticas', () => {
 - ✅ **Mantenibilidad:** Estructura modular y escalable
 - ✅ **Estabilidad:** Tests confiables que pasan consistentemente
 
-#### Gestión de Defectos
-- ✅ **Claridad:** Descripción precisa y reproducible
-- ✅ **Clasificación:** Severidad y prioridad correctamente asignadas
-- ✅ **Evidencia:** Capturas de pantalla y/o videos adjuntos
-- ✅ **Trazabilidad:** Vinculación con casos de prueba específicos
-
 ---
