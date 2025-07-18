@@ -17,7 +17,7 @@ Este trabajo fue posible gracias al trabajo colaborativo de nuestro equipo:
 | Integrante 4 | ``           | [![GitHub Badge](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) |
 | Integrante 5 | ``           | [![GitHub Badge](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) |
 | Integrante 6 | ``           | [![GitHub Badge](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) |
-| Integrante 7 | ``robertoraulforte           | [![GitHub Badge](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) |
+| Integrante 7 | robertoraulforte           | [![GitHub Badge](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) |
 | Juan Diego González Antoniazzi | `JDGA1997`           | [![GitHub Badge](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JDGA1997) |
 
 > **Nota:** Tabla pendiente de completar con los demás integrantes del equipo
