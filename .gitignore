@@ -1,0 +1,9 @@
+# Ticketazo - Proyecto de QA Automation (Grupo Nº 10)
+
+# No subir dependencias
+node_modules/
+
+# Archivos generados por Cypress (videos y capturas)
+.cypress/
+cypress/videos/
+cypress/screenshots/

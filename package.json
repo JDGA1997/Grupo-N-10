@@ -1,0 +1,23 @@
+{
+  "name": "grupo-n-10",
+  "version": "1.0.0",
+  "description": "Este proyecto tiene como objetivo poner en práctica la elaboración de planes de prueba y la automatización de casos funcionales con **Cypress** sobre la plataforma **Ticketazo**, aplicando buenas prácticas de testing y reporte de defectos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JDGA1997/Grupo-N-10.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JDGA1997/Grupo-N-10/issues"
+  },
+  "homepage": "https://github.com/JDGA1997/Grupo-N-10#readme",
+  "devDependencies": {
+    "cypress": "^14.5.2"
+  }
+}
